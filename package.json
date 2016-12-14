@@ -1,0 +1,16 @@
+{
+  "name": "pi-sensor-hub",
+  "version": "1.0.0",
+  "description": "Raspberry Pi Sensor Hub",
+  "main": "index.js",
+  "dependencies": {
+    "node-status": "^1.0.0",
+    "sensortag": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franziskus Domig <fdomig@gmail.com>",
+  "license": "MIT"
+}
